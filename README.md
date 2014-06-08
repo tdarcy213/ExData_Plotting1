@@ -1,5 +1,11 @@
 ## Introduction
 
+### Per the course instructions, the following scripts have been uploaded to the git repository:
+### PrepData.R - this script is invoked by the plotting scripts to create the dataframe used for creating the plots
+### Plot1.R - thru - Plot4.R - these scripts create each of the required plots
+
+### The resulting plots have been uploaded as .png files: Plot1.png - thru - Plot4.png
+
 This assignment uses data from
 the <a href="http://archive.ics.uci.edu/ml/">UC Irvine Machine
 Learning Repository</a>, a popular repository for machine learning
